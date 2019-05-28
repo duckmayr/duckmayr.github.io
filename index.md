@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## JB Duck-Mayr
 
-You can use the [editor on GitHub](https://github.com/duckmayr/duckmayr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a fourth year graduate student in the Department of Political Science at Washington University in St. Louis. My primary research interests are in American political institutions, particularly American courts, and applying formal theoretical models in empirical research. I am also a member of WashU’s Formal Theory Workshop and Political Data Science Lab.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duckmayr/duckmayr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Before coming to WashU, I earned a J.D. from Baylor Law School. Studying the law and working for judges fueled an interest in studying courts and other political institutions rather than practicing law. My current projects focus on improving theoretical models of judicial policymaking, reconceptualizing agenda setting in federal courts (with Thomas G. Hansford and James F. Spriggs, II), measuring ideology (with Jacob Montgomery), and understanding demand-side effects in the relationship between political competition and judicial independence (with Joshua Boston and David Carlson).
