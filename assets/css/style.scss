@@ -5,7 +5,7 @@
 
 .custom_inner_for_header {
   position: relative;
-  width: 60%;
+  width: 90%;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -51,3 +51,19 @@ img {
   -ms-box-shadow: 0 0 0px #ebebeb;
 }
 
+a {
+  text-decoration: none;
+  color: #06989a;
+  text-shadow: none;
+
+  transition: color 0.5s ease;
+  transition: text-shadow 0.5s ease;
+  -webkit-transition: color 0.5s ease;
+  -webkit-transition: text-shadow 0.5s ease;
+  -moz-transition: color 0.5s ease;
+  -moz-transition: text-shadow 0.5s ease;
+  -o-transition: color 0.5s ease;
+  -o-transition: text-shadow 0.5s ease;
+  -ms-transition: color 0.5s ease;
+  -ms-transition: text-shadow 0.5s ease;
+}
