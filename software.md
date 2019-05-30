@@ -1,3 +1,7 @@
+---
+title: Software
+---
+
 In the course of my research projects, I have found it useful to develop a few R packages, which can all be found on [my GitHub](http://github.com/duckmayr).
 A few are in mature stages of development:
 

@@ -1,3 +1,7 @@
+---
+title: Research
+---
+
 ## Working Papers
 
 ### Crafting Coherent Legal Rules

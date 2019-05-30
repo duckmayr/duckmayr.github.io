@@ -1,7 +1,8 @@
 ---
 layout: cv
-title: JB Duck-Mayr's CV
+title: CV
 ---
+
 # JB Duck-Mayr
 Political Science PhD Stduent
 

@@ -1,3 +1,7 @@
+---
+title: Teaching
+---
+
 ## Constitutional Law
 
 Washington University in St. Louis -- Summer 2018
