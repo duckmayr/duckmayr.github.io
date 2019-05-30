@@ -6,6 +6,7 @@
 .custom_inner_for_header {
   position: relative;
   width: 90%;
+  max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -13,6 +14,7 @@
 .custom_inner_for_body {
   position: relative;
   width: 60%;
+  max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
   min-height: 400px;
@@ -21,6 +23,7 @@
 .custom_inner_for_footer {
   position: relative;
   width: 60%;
+  max-width: 640px;
   padding: 20px 10px;
   margin: 0 auto;
   max-height: 200px;
