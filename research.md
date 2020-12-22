@@ -8,7 +8,7 @@ title: Research
 
 _Forthcoming in the Proceedings of the Thirty-Sixth Conference on Uncertainty in Artificial Intelligence_
 
-<a href="https://arxiv.org/pdf/2006.09900.pdf" target="_blank">Paper available here (opens in new tab)</a>
+<a href="http://proceedings.mlr.press/v124/duck-mayr20a.html" target="_blank">Paper available here (opens in new tab)</a>
 
 <a href="https://doi.org/10.7910/DVN/UZILPJ" target="_blank">Replication archive here (opens in new tab)</a>
 
