@@ -6,7 +6,8 @@ title: Research
 
 ### GPIRT: A Gaussian Process Model for Item Response Theory
 
-_Forthcoming in the Proceedings of the Thirty-Sixth Conference on Uncertainty in Artificial Intelligence_
+Duck-Mayr, JBrandon, Roman Garnett, and Jacob Montgomery. 2020. "GPIRT: A Gaussian Process Model for Item Response
+Theory." In _Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence (UAI)_, 124:520–529. Proceedings of Machine Learning Research.
 
 <a href="http://proceedings.mlr.press/v124/duck-mayr20a.html" target="_blank">Paper available here (opens in new tab)</a>
 
@@ -23,6 +24,22 @@ _Forthcoming in the Proceedings of the Thirty-Sixth Conference on Uncertainty in
     This in turn allows us to easily extend the model to further tasks such as active learning.
     GPIRT therefore provides a simple and intuitive solution to several longstanding problems in the IRT literature.
 </details>
+
+
+### Attention to Precedent in a Judicial Hierarchy <br/> (with Thomas G. Hansford and James F. Spriggs, II)
+
+Conditionally accepted at _Journal of Law and Courts_
+
+<details>
+    <summary>Abstract</summary>
+
+    Who controls the federal judicial agenda?
+    Judicial agenda setting studies typically focus on the Supreme Court's agenda setting ability by considering individual case selection or attention to broad issue areas by the Court.
+    We re-conceptualize the judicial agenda as attention to precedent and study the agenda setting ability of courts at all levels of the federal judicial hierarchy.
+    We use decades of Supreme Court, appeals court, and district court citations to all Supreme Court cases decided between 1946 and 1986 to estimate a series of vector autoregression models that allow us to identify how each level of court initiates or responds to variation in the attention to a given precedent in other levels of court.
+    The results reveal a new empirical regularity: while the Supreme Court may exert some top-down control of the federal judicial agenda, lower courts play an important role in influencing attention to precedent at the Court.
+</details>
+
 
 ## Working Papers
 
@@ -69,17 +86,5 @@ _Forthcoming in the Proceedings of the Thirty-Sixth Conference on Uncertainty in
     In short, when an ineffectual legislature cannot address a policy-seeker’s proposal, the courts can intervene, causing a *de facto* increase in judicial independence.
     Empirical results confirm these theoretically derived expectations, as aggregate measures of political competition across space and time cause significant changes in *de facto* judicial independence.
     Our findings have practical implications regarding when we might observe policy-seekers litigating issues rather than seeking legislation.
-</details>
-
-### Attention to Precedent in a Judicial Hierarchy <br/> (with Thomas G. Hansford and James F. Spriggs, II)
-
-<details>
-    <summary>Abstract</summary>
-
-    Who controls the federal judicial agenda?
-    Judicial agenda setting studies typically focus on the Supreme Court's agenda setting ability by considering individual case selection or attention to broad issue areas by the Court.
-    We re-conceptualize the judicial agenda as attention to precedent and study the agenda setting ability of courts at all levels of the federal judicial hierarchy.
-    We use decades of Supreme Court, appeals court, and district court citations to all Supreme Court cases decided between 1946 and 1986 to estimate a series of vector autoregression models that allow us to identify how each level of court initiates or responds to variation in the attention to a given precedent in other levels of court.
-    The results reveal a new empirical regularity: while the Supreme Court may exert some top-down control of the federal judicial agenda, lower courts play an important role in influencing attention to precedent at the Court.
 </details>
 
